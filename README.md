@@ -178,9 +178,4 @@ MAX_LEN = 81
 
 Ushbu loyiha o‘quv maqsadlarida foydalanish uchun ochiq.
 
-```
 
----
-
-
-```
