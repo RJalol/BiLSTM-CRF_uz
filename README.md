@@ -1,16 +1,4 @@
-# 🇺🇿 Aspect Term Extraction with BiLSTM+CRF for Uzbek
 
-Ushbu loyiha **Uzbek tilida yozilgan sharhlar**dagi **aspekt (mavzu) so‘zlarini** aniqlash uchun BiLSTM + CRF modelidan foydalanadi. Model Gensim yordamida yuklangan `.bin` formatdagi **word2vec** embeddingdan foydalanadi.
-
----
-
-## 📦 Loyiha tarkibi
-
-Ajoyib, endi sizga `README.md` faylini tayyorlab beraman — barcha bosqichlar, tavsiyalar va `.bin` fayl manbasi bilan to‘liq hujjatli ko‘rinishda. Quyidagi faylni loyihangizning **asosiy papkasiga** joylashtiring.
-
----
-
-## 📄 `README.md`
 
 ```markdown
 # 🇺🇿 Aspect Term Extraction with BiLSTM+CRF for Uzbek
