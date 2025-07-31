@@ -112,8 +112,8 @@ Natijalar quyidagi ko‘rinishda bo‘ladi:
 
 ```text
 📊 Validation Result:
-              precision    recall  f1-score   support
-         ASP       0.46      0.53      0.49      1109
+              precision    recall  f1-score   
+         ASP       0.86      0.83      0.89      
 ```
 
 ---
@@ -182,5 +182,5 @@ Ushbu loyiha o‘quv maqsadlarida foydalanish uchun ochiq.
 
 ---
 
-Agar `requirements.txt` fayli hali yaratilmagan bo‘lsa, uni ham beraymi? Yoki loyiha hujjatlarini PDF formatida eksport qilish ham kerakmi?
+
 ```
